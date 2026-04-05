@@ -158,6 +158,6 @@ supabase
 
 ## Built by
 
-**Debo Denmark** · Founder, AEGIS Security Inc. · Tampa, FL
+**Derek Denmark** · Founder, AEGIS Security Inc. · Tampa, FL
 
 Portfolio piece targeting the Founding UI/UX Design Engineer role at [Clearly AI (YC S24)](https://www.ycombinator.com/companies/clearly-ai).

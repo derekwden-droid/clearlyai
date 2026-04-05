@@ -103,7 +103,7 @@ export default function Sidebar({ active, onNavigate }: SidebarProps) {
           D
         </div>
         <div className="min-w-0">
-          <p className="text-xs font-bold truncate">Debo Denmark</p>
+          <p className="text-xs font-bold truncate">Derek Denmark</p>
           <p
             className="font-mono truncate"
             style={{ fontSize: 10, color: "var(--tm)" }}
